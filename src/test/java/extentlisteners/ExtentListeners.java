@@ -28,7 +28,7 @@ public class ExtentListeners implements ITestListener, ISuiteListener {
 //			.createInstance(".\\reports\\" + fileName);
 	
 	private static ExtentReports extent = ExtentManager
-			.createInstance("./src/test/reports/" + fileName);
+			.createInstance("/home/swaroop/eclipse-workspace/PageObjectModelMarch2023/reports/" + fileName);
 
 	public static ExtentTest test;
 	

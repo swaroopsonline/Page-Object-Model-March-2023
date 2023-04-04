@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-04T04:11:34Z" name="Page Object Model Framework" finished-at="2023-04-04T04:11:50Z" duration-ms="15848">
+  <suite started-at="2023-04-04T04:21:53Z" name="Page Object Model Framework" finished-at="2023-04-04T04:22:11Z" duration-ms="17760">
     <groups>
     </groups>
-    <test started-at="2023-04-04T04:11:34Z" name="Find New Car Test" finished-at="2023-04-04T04:11:50Z" duration-ms="15848">
+    <test started-at="2023-04-04T04:21:53Z" name="Find New Car Test" finished-at="2023-04-04T04:22:11Z" duration-ms="17760">
       <class name="testcases.findNewCarTest">
-        <test-method signature="findNewCarTest()[pri:0, instance:testcases.findNewCarTest@724bade8]" started-at="2023-04-04T04:11:34Z" name="findNewCarTest" finished-at="2023-04-04T04:11:50Z" duration-ms="15664" status="PASS">
+        <test-method signature="findNewCarTest()[pri:0, instance:testcases.findNewCarTest@5003041b]" started-at="2023-04-04T04:21:53Z" name="findNewCarTest" finished-at="2023-04-04T04:22:11Z" duration-ms="17577" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findNewCarTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.findNewCarTest@724bade8]" started-at="2023-04-04T04:11:50Z" name="tearDown" finished-at="2023-04-04T04:11:50Z" duration-ms="161" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.findNewCarTest@5003041b]" started-at="2023-04-04T04:22:11Z" name="tearDown" finished-at="2023-04-04T04:22:11Z" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
