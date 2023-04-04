@@ -15,6 +15,7 @@ public class findNewCarTest extends BaseTest {
 //			
 //			throw new SkipException("Skipping the test as the run mode is no");
 //		}
+//		Testing the Changes
 		
 		setUp("chrome");
 		HomePage home = new HomePage(driver);		
