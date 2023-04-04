@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-03T07:46:40Z" name="Default suite" finished-at="2023-04-03T07:46:47Z" duration-ms="7624">
+  <suite started-at="2023-04-04T04:11:34Z" name="Page Object Model Framework" finished-at="2023-04-04T04:11:50Z" duration-ms="15848">
     <groups>
     </groups>
-    <test started-at="2023-04-03T07:46:40Z" name="Default test" finished-at="2023-04-03T07:46:47Z" duration-ms="7624">
+    <test started-at="2023-04-04T04:11:34Z" name="Find New Car Test" finished-at="2023-04-04T04:11:50Z" duration-ms="15848">
       <class name="testcases.findNewCarTest">
-        <test-method signature="findNewCarTest()[pri:0, instance:testcases.findNewCarTest@724bade8]" started-at="2023-04-03T07:46:40Z" name="findNewCarTest" finished-at="2023-04-03T07:46:47Z" duration-ms="7423" status="PASS">
+        <test-method signature="findNewCarTest()[pri:0, instance:testcases.findNewCarTest@724bade8]" started-at="2023-04-04T04:11:34Z" name="findNewCarTest" finished-at="2023-04-04T04:11:50Z" duration-ms="15664" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findNewCarTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.findNewCarTest@724bade8]" started-at="2023-04-03T07:46:47Z" name="tearDown" finished-at="2023-04-03T07:46:47Z" duration-ms="170" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.findNewCarTest@724bade8]" started-at="2023-04-04T04:11:50Z" name="tearDown" finished-at="2023-04-04T04:11:50Z" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testcases.findNewCarTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Find New Car Test -->
+  </suite> <!-- Page Object Model Framework -->
 </testng-results>
